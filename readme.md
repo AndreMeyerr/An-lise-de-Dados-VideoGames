@@ -1,4 +1,4 @@
-Análise de Vendas de Videogames (2013-2020) - Projeto
+Análise de Vendas de Videogames (2013-2020) - Projeto - 
 Este é um projeto de análise de dados que visa explorar o mercado de videogames durante os anos de 2013 a 2020. Utilizaremos a linguagem de programação Python para realizar a análise e extrair insights valiosos a partir dos dados disponíveis.
 
 Objetivos
